@@ -3,15 +3,15 @@
     </div>
     <p align="center">
         <a href="https://github.com/zubi-afridi"><img
-                src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer;Graphic+Designer;Logo+Designer;Canva+Expert&font=Roboto&size=24&duration=3500&pause=500&center=true&width=500&height=50&color=9c033a"></a>
+                src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer;Graphic+Designer;Logo+Designer;Canva+Expert&font=Roboto&size=24&duration=3500&pause=500&center=true&width=500&height=50&color=3498db"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubi-afridi&label=Profile%20views&color=0e75b6&style=flat" alt="zubi-afridi" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 💻 I’m currently learning **React.js**
 
-- 💬 Ask me about **Html/Html5,CSS/CSS3,JavaScript,Bootstrap,C/C++,OOP,Java.**
+- 💬 Ask me about **Html/Html5,CSS/CSS3,JavaScript,Bootstrap,C/C++,OOP,Java,DSA.**
 
-- 📫 How to reach me **zubairafridi2312@gamil.com**
+- 📧 How to reach me **zubairafridi2312@gamil.com**
 
 - ⚡ Fun fact **I am FunnY 🤣**
 
