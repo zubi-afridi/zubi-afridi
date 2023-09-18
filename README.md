@@ -1,3 +1,4 @@
+<div align="center"> <img src="https://github.com/zubi-afridi/zubi-afridi/blob/main/20230918_210128_0000.png "> </div>
  <div align="center">
         <h1> Hi here, I'm Zubair Khan👋<a href="#"></h1>
     </div>
