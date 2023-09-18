@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Zubair Khan</h1>
-<h3 align="center">A passionate frontend Web developer from Pakistan</h3>
+ <div align="center">
+        <h1> Hi here, I'm Zubair Khan👋<a href="#"></h1>
+    </div>
+    <p align="center">
+        <a href="https://github.com/zubi-afridi"><img
+                src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer;Graphic+Designer;Logo+Designer;Canva+Expert&font=Roboto&size=24&duration=3500&pause=500&center=true&width=500&height=50&color=9c033a"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubi-afridi&label=Profile%20views&color=0e75b6&style=flat" alt="zubi-afridi" /> </p>
 
