@@ -5,7 +5,7 @@
     <p align="center">
         <a href="https://github.com/zubi-afridi"><img
                 src="https://readme-typing-svg.herokuapp.com?lines=A+passionate+Frontend+Web+Developer;Graphic+Designer;Logo+Designer;Canva+Expert;Let's+connect+together!&font=Roboto&size=24&duration=3500&pause=500&center=true&width=500&height=50&color=3498db"></a>
-        <div>  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></div>
+        <div>  <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devsouvik/devsouvik/master/gif3.gif"></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubi-afridi&label=Profile%20views&color=0e75b6&style=flat" alt="zubi-afridi" /> </p>
 
