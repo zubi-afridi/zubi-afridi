@@ -1,6 +1,6 @@
 <div align="center"> <img src="https://github.com/zubi-afridi/zubi-afridi/blob/main/20230918_210128_0000.png "> </div>
  <div align="center">
-        <h1> Hi here, I'm Zubair Khan👋<a href="#"></h1>
+        <h1> Hi there, I'm Zubair Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><a href="#"></h1>
     </div>
     <p align="center">
         <a href="https://github.com/zubi-afridi"><img
