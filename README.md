@@ -11,7 +11,31 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubi-afridi&label=Profile%20views&color=0e75b6&style=flat" alt="zubi-afridi" /> </p>
 
 # 💫 About Me:
-Hello 👋 <br>I am Zubair Khan, a dedicated BSSE student at IIUI, on an unwavering journey of learning since 2020. With the completion of my 6th semester, I have been consistently pushing the boundaries of my educational pursuit.<br><br>🎨 Proficient in the realm of web development, I have forged a strong foundation in several programming languages and seamlessly crafted responsive websites using:<br><br>-- HTML<br>-- CSS<br>-- Bootstrap<br>-- JavaScript<br>My quest for knowledge led me to master #REACT.JS, further elevating my skill set.<br><br>📈 In addition to my web development prowess, I have honed a range of other valuable skills throughout my academic journey, including:<br><br>-> C++<br>-> Data Structures and Algorithms<br>-> Object-Oriented Programming<br>-> JAVA<br>-> Graphic Design<br>-> Logo Design<br><br>🔎 Currently, I am on the lookout for opportunities in internships or job roles that offer immersive experience in React.js, along with the comprehensive MERN stack (MongoDB, Express.js, React.js, Node.js). Fueled by adept problem-solving abilities and a rapid learning inclination, I consistently propel myself forward.<br><br>🚀 Beyond being mere skills, programming and coding are my genuine passions. I thrive on exploring emerging technologies and uncovering innovative pathways for enhancement.<br><br>💡 Should you be seeking a collaborator who shares a parallel skill set and values, please feel free to connect. Together, we can pave the way for something truly extraordinary!<br><br>[<img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" /> : zubairafridi2312@gmail.com]<br><br>Thank you for your time in visiting my profile.
+# 👋 Hi, I'm Zubair Khan!
+
+Glad to have you visiting my profile! 😊
+
+I’m a **Software Engineer** specializing in **Frontend Web Development**, with hands-on experience in building dynamic, responsive websites using **HTML5, CSS3, JavaScript (ES6), React.js**, and **Bootstrap 5**. My passion for technology drives me to continuously expand my expertise and push the boundaries of **UI/UX design**.
+
+💡 I enjoy transforming ideas into user-friendly digital experiences, ensuring both functionality and aesthetic appeal. Whether it’s **optimizing code**, **improving performance**, or **designing intuitive interfaces**, I focus on delivering solutions that exceed expectations.
+
+## ⚡️ Key Skills:
+
+- **Frontend Development**: HTML5, CSS3, JavaScript (ES6), React.js
+- **Responsive Design**: Bootstrap 5, Tailwind CSS
+- **State Management**: Redux Toolkit, Context API
+- **Version Control**: Git, GitHub
+- **APIs & Integration**: Open Weather API, RESTful services
+
+📈 Outside of coding, I’m constantly exploring new technologies and best practices, aiming to contribute to impactful projects and collaborate with like-minded professionals. I’m driven by a genuine love for **problem-solving** and **innovation**.
+
+🚀 If you’re interested in collaborating or want to discuss opportunities, feel free to reach out! Let’s create something remarkable together.
+
+📧 **Email**: [zubairafridi2312@gmail.com](mailto:zubairafridi2312@gmail.com)
+
+---
+
+Thank you for your time in visiting my profile!
 
 
 ## 🌐 Socials:
