@@ -12,7 +12,9 @@
 
 # 💫 About Me:
 👋 Hi, I'm Zubair Khan!
+
 Glad to have you visiting my profile! 😊
+
 I’m a **Software Engineer** specializing in **Frontend Web Development**, with hands-on experience in building dynamic, responsive websites using **HTML5, CSS3, JavaScript (ES6), React.js**, with **Bootstrap 5,Chakra UI and Tailwind CSS**. My passion for technology drives me to continuously expand my expertise and push the boundaries of **UI/UX design**.
 
 💡 I enjoy transforming ideas into user-friendly digital experiences, ensuring both functionality and aesthetic appeal. Whether it’s **optimizing code**, **improving performance**, or **designing intuitive interfaces**, I focus on delivering solutions that exceed expectations.
