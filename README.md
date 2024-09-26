@@ -3,8 +3,8 @@
         <h1> Hello, I'm Zubair Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><a href="#"></h1>
     </div>
     <p align="center">
-        <a href="https://github.com/zubi-afridi">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=A+passionate+Frontend+Web+Developer;React+JS+Enthusiast;Tailwind+CSS+Expert;Let's+connect+together!&font=Roboto&size=24&duration=3500&pause=500&center=true&width=500&height=50&color=3498db">
+       <a href="https://github.com/zubi-afridi">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer+👨‍💻;HTML+5+|+CSS+3+|+JavaScript+|+Bootstrap+5+|+Chakra+UI+|+Tailwind+CSS+|+React.JS+|+Redux+|+Context+API+|+Routing+|+Git+and+GitHub;Crafting+High-Performance,+Responsive+Websites+🚀;Let's+Connect+Together!&font=Roboto&size=24&duration=3500&pause=500&center=true&width=600&height=50&color=3498db">
 </a>
         <div>  <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devsouvik/devsouvik/master/gif3.gif"></div>
 
