@@ -22,7 +22,7 @@ I’m a **Software Engineer** specializing in **Frontend Web Development**, with
 ## ⚡️ Key Skills:
 
 - **Frontend Development**: HTML5, CSS3, JavaScript (ES6), React.js
-- **Responsive Design**: Bootstrap 5, Tailwind CSS
+- **Responsive Design**: Bootstrap 5, Tailwind CSS and Chakra UI
 - **State Management**: Redux Toolkit, Context API
 - **Version Control**: Git, GitHub
 - **APIs & Integration**: Open Weather API, RESTful services
