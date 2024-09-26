@@ -31,7 +31,8 @@ I’m a **Software Engineer** specializing in **Frontend Web Development**, with
 
 🚀 If you’re interested in collaborating or want to discuss opportunities, feel free to reach out! Let’s create something remarkable together.
 
-[<img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" /> **Email**: [zubairafridi2312@gmail.com](mailto:zubairafridi2312@gmail.com)
+[<img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" /> **Email**: [zubairafridi2312@gmail.com](mailto:zubairafridi2312@gmail.com)}
+
 Thank you for your time in visiting my profile!
 
 
