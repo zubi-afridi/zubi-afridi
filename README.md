@@ -4,7 +4,7 @@
     </div>
     <p align="center">
        <a href="https://github.com/zubi-afridi">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer+👨‍💻;HTML+|+CSS+|+JS+|+React.JS+|+Next.JS+;Tailwind+CSS+|+Framer+Motion+|+GSAP+|+API+Integration+|+TanStack+Query+;Crafting+High-Performance,+Responsive+Websites+🚀;Let's+Connect+Together!&font=Roboto&size=24&duration=3500&pause=500&center=true&width=600&height=50&color=3498db">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer+👨‍💻;HTML+|+CSS+|+JS+|+React.JS+|+Next.JS+;Tailwind+CSS+|+Framer+Motion+|+GSAP+;Crafting+High-Performance,+Responsive+Websites+API+Integration+Website🚀;Let's+Connect+Together!&font=Roboto&size=24&duration=3500&pause=500&center=true&width=600&height=50&color=3498db">
 </a>
         <div>  <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devsouvik/devsouvik/master/gif3.gif"></div>
 
